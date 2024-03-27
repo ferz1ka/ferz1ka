@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Not much going on here lately... Using github mainly on my corporate account.
+Not much going on here lately.. Using github mainly on my corporate account.
 
 <!--
 **ferz1ka/ferz1ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
